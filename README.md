@@ -32,3 +32,5 @@ PROGRAM:
 OUTPUT:
 RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
+<img width="1336" height="596" alt="Screenshot 2026-11-13 145311" src="https://github.com/user-attachments/assets/c2108f2d-d9aa-46f1-b25f-4e3f9cc91693" />
+http://127.0.0.1:8000/
